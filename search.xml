@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>“ACG杂谈”板块序言</title>
+      <link href="/posts/535fd087.html"/>
+      <url>/posts/535fd087.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="启程">启程</h1><blockquote><p>书必须是用来凿破人们心中冰封海洋的一把斧子 ——卡夫卡</p></blockquote><figure><img src="/illustration/ACG杂谈序言/1.webp" alt="卡夫卡" /><figcaption aria-hidden="true">卡夫卡</figcaption></figure><p>卡夫卡那时还没有 ACG文化，否则他一定会说“番剧必须是用来凿破人们心中冰封海洋的一把斧子”。那些我们不敢想象的梦，那些美好或邪恶的幻想，都能在二次元的世界里实现，或许正是这些幻想产生了二次元世界。弗洛伊德认为“梦是人们欲望的反映”，相对的，二次元世界就是人们对美好生活的向往的反映。</p><blockquote><p>让我带你去吧,这个小镇,愿望实现的地方 ——《CLANNAD》</p></blockquote><figure><img src="/illustration/ACG杂谈序言/2.webp" alt="古河渚" /><figcaption aria-hidden="true">古河渚</figcaption></figure><p>我们在另一个世界里经历着各种各样的事情，有的将自己代入主角，感觉开后宫的乐趣；有时似乎参与到主角团的冒险中，与他们同呼吸、共命运；有时又打开上帝视角，观赏者那个世界的人生百态，嘲讽并品味着自己的生活……</p><blockquote><p>在虚构的故事当中寻求真实感的人脑袋一定有问题 ——《凉宫春日的忧郁》</p></blockquote><figure><img src="/illustration/ACG杂谈序言/3.webp" alt="阿虚" /><figcaption aria-hidden="true">阿虚</figcaption></figure><p>当我们将自己对现实生活中的美好愿景寄托在动漫中的，一部番的结束也意味着我们需要回归现实，因为对番剧更多的期待会和生活形成强大的对比，一种恍惚感就产生了。</p><blockquote><p>人生就是一列开往坟墓的列车，路途上会有很多站，很难有人可以自始至终陪着走完。当陪你的人要下车时，即使不舍也该心存感激，然后挥手道别。——宫崎骏（然而并没有说过这句话）</p></blockquote><figure><img src="/illustration/ACG杂谈序言/4.webp" alt="宫崎骏" /><figcaption aria-hidden="true">宫崎骏</figcaption></figure><p>追完一部番就像失去了一个好朋友，为了纪念那一段刻骨铭心的旅程，我开启这一板块的写作，与其说的评论，倒不如说是自己对那一段旅途的小小日记本，等到十年后的某一天不经意间翻开，或许会像《中二病也要谈恋爱》中一样面对自己羞耻的过往“公开处刑”，但更多的是一段美好的回忆吧。不知道工作后接受社会毒打的我是否还会像我第一次看到一部番一样感动得泪流满面？</p><h1 id="旅途">旅途</h1><h1 id="终点">终点</h1><p>留给未来的我，如果我有一天不再看二次元了，请一定要将这一节完结，让这篇文章了无遗憾。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ACG杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ACG </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>微分方程</title>
       <link href="/posts/440ed920.html"/>
       <url>/posts/440ed920.html</url>
@@ -126,11 +151,11 @@
       
         <tags>
             
+            <tag> 博客 </tag>
+            
             <tag> Markdown </tag>
             
             <tag> 编程语言 </tag>
-            
-            <tag> 博客 </tag>
             
         </tags>
       
@@ -224,7 +249,7 @@
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello World\n&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello World\n&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><div id="demo_style"style="background: url(&#39;https://ae01.alicdn.com/kf/H21b5f6b8496141a1979a33666e1074d9x.jpg&#39;)">必应壁纸</div><script>var article_container=document.getElementById("demo_style");article_container.addEventListener("click",function(a){web_bg.style.background=a.target.style.background});</script><p>web_bg.style.background=url("https://ae01.alicdn.com/kf/H21b5f6b8496141a1979a33666e1074d9x.jpg")</p>]]></content>
       
       
       <categories>
